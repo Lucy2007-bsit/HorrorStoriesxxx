@@ -1,8 +1,8 @@
-# HindiToWebsiteKasiRefToNgKapitbahayNiyo 💀
+# XXXGhostly💀
 
 ## 💀 Description
 
-This project, titled "HindiToWebsiteKasiRefToNgKapitbahayNiyo," is a surprisingly unsettling web experience built primarily with JavaScript, HTML, and CSS. Despite its somewhat humorous repository name and description, the actual content of the website is designed to be a horror-themed interactive story. It aims to create a creepy and immersive atmosphere through visual effects, sound, and text manipulation, leveraging a dark theme and great stories. The website utilizes a single HTML entry point (`index.html`) and relies heavily on client-side JavaScript for its dynamic and terrifying elements.
+This project, titled "XXXGhostly," is a surprisingly unsettling web experience built primarily with JavaScript, HTML, and CSS. Despite its somewhat humorous repository name and description, the actual content of the website is designed to be a horror-themed interactive story. It aims to create a creepy and immersive atmosphere through visual effects, sound, and text manipulation, leveraging a dark theme and great stories. The website utilizes a single HTML entry point (`index.html`) and relies heavily on client-side JavaScript for its dynamic and terrifying elements.
 
 ## ✨ Features
 
